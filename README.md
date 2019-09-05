@@ -1,2 +1,1 @@
-# exposed-json-datatype
-Exposed JSON Datatype
+# Exposed JSON Datatype
