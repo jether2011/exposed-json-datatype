@@ -1,6 +1,5 @@
 package com.jetherrodrigues.application.web.controller.request
 
-import com.jetherrodrigues.domain.login.entities.Role
 import com.jetherrodrigues.domain.login.entities.RoleType
 import com.jetherrodrigues.domain.login.entities.User
 import org.valiktor.functions.isEmail
